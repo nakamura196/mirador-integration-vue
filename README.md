@@ -1,4 +1,6 @@
-# my-project
+## Integrating Mirador
+
+This repository is designed to show integrating Mirador 3 with Vue.
 
 ## Project setup
 ```
@@ -10,15 +12,11 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Dependencies
 
-### Lints and fixes files
-```
-npm run lint
-```
+You will likely need to have at least the following dependencies available in your `package.json`.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - `mirador`
+ - `react`
+ - `react-dom`
+ - `mirador-image-tools` - A plugin just to test plugin integration
