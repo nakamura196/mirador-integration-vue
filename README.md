@@ -1,6 +1,8 @@
-## Integrating Mirador
+## Integrating Mirador with Vue
 
 This repository is designed to show integrating Mirador 3 with Vue.
+
+Best regards to the https://github.com/ProjectMirador/mirador-integration.
 
 ## Project setup
 ```
